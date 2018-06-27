@@ -1,1 +1,1 @@
-eyzalts: nodemon test.js
+eyzalts: node test.js
